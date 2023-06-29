@@ -8,7 +8,6 @@
 
   rules:
     - name: "Debug test"
-      condition: True
       action:
         debug:
           var: ansible_eda.event
