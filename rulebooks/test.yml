@@ -8,6 +8,6 @@
 
   rules:
     - name: "Debug test"
-      condition: True
+      condition: true == true
       action:
         debug:
