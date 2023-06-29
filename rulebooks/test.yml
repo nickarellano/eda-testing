@@ -10,4 +10,3 @@
     - name: "Debug test"
       action:
         debug:
-          var: ansible_eda.event
